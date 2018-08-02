@@ -1,0 +1,1 @@
+<input class="form-control mr-sm-2" type="search" id="buscar" placeholder="Buscar..." aria-label="Search">
